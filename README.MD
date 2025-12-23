@@ -60,7 +60,7 @@ Python 3
 
 🎯 Objetivo do projeto
 
-- Este projeto faz parte do meu processo de aprendizado em Python, com foco em:
+Este projeto faz parte do meu processo de aprendizado em Python, com foco em:
 - fortalecer a lógica de programação
 - ganhar fluidez com a linguagem
 - construir uma base sólida para projetos maiores no futuro
